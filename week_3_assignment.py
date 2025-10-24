@@ -26,4 +26,3 @@ if total >=15.00:
     print("Final total: $",total-2.50)
 else:
     print(f"Final total: ${total}")
-print('Thank you for your rental!')
